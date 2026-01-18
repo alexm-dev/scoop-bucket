@@ -4,8 +4,6 @@
 
 ## About
 
-This is [alexm-dev](https://github.com/alexm-dev)'s custom [Scoop](https://scoop.sh/) bucket, providing manifests for easy installation of software that isn't found in the main Scoop repositories.
-
 Current bucket contents:
 
 - `runa` ([repo](https://github.com/alexm-dev/runa)) &mdash; A lightweight terminal file browser written in Rust
@@ -16,13 +14,13 @@ First, [install Scoop](https://scoop.sh/).
 
 Then add this bucket:
 
-```powershell
+```sh
 scoop bucket add alexm-dev https://github.com/alexm-dev/scoop-bucket
 ```
 
 Install an app from your bucket:
 
-```powershell
+```sh
 scoop install runa
 ```
 
