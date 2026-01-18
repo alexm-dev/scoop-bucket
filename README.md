@@ -18,7 +18,7 @@ Then add this bucket:
 scoop bucket add alexm-dev https://github.com/alexm-dev/scoop-bucket
 ```
 
-Install an app from your bucket:
+Install an app from the bucket:
 
 ```sh
 scoop install runa
