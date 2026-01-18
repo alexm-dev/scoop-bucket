@@ -6,7 +6,7 @@
 
 Current bucket contents:
 
-- `runa` ([repo](https://github.com/alexm-dev/runa)) &mdash; A lightweight terminal file browser written in Rust
+- `runa` ([repo](https://github.com/alexm-dev/runa)) - A lightweight terminal file browser written in Rust
 
 ## Usage
 
