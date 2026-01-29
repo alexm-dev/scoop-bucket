@@ -24,10 +24,6 @@ Install an app from the bucket:
 scoop install runa
 ```
 
-## Contributing
-
-Contributions are welcome! To add or update a manifest, fork this repo and open a pull request.
-
 ## License
 
 The manifest files and scripts in this bucket are licensed under the MIT license:
