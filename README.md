@@ -1,12 +1,12 @@
-# alexm-dev/scoop-bucket
+# runa-fm/scoop-bucket
 
-**Personal Scoop Bucket** for [Scoop](https://scoop.sh/) Windows package manager.
+**Scoop Bucket** for [Scoop](https://scoop.sh/) Windows package manager.
 
 ## About
 
 Current bucket contents:
 
-- `runa` ([repo](https://github.com/alexm-dev/runa)) - A lightweight terminal file browser written in Rust
+- `runa` ([repo](https://github.com/runa-fm/runa)) - A lightweight terminal file browser written in Rust
 
 ## Usage
 
@@ -15,7 +15,7 @@ First, [install Scoop](https://scoop.sh/).
 Then add this bucket:
 
 ```sh
-scoop bucket add alexm-dev https://github.com/alexm-dev/scoop-bucket
+scoop bucket add runa-fm https://github.com/runa-fm/scoop-bucket
 ```
 
 Install an app from the bucket:

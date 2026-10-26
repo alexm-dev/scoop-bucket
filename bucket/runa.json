@@ -1,6 +1,6 @@
 {
     "version": "0.14.2",
-    "description": "Fast and lightweight terminal file browser written in Rust",
+    "description": "Fast and lightweight terminal file manager written in Rust",
     "homepage": "https://github.com/runa-fm/runa",
     "license": "MIT|Apache-2.0",
     "architecture": {
